@@ -66,7 +66,7 @@ product6 = Product(6, "Ipad", 1250)
 
 customer = Customer("John Doe", "john@example.com")
 
-print("*** Welcome to the e-commerce store!***")
+print("*** Welcome to the e-commerce store! ***")
 print("Here are some available products:")
 
 products = [product1, product2, product3, product4, product5, product6]
