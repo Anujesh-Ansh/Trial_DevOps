@@ -51,7 +51,7 @@ class Customer:
 
     def checkout(self):
         total = self.shopping_cart.calculate_total()
-        print(f"\nTotal amount to pay: {total}")
+        print(f"\nTotal amount to pay: { total }")
 
 
 # Sample usage
