@@ -46,6 +46,7 @@ class Customer:
     def add_to_cart(self, product):
         self.shopping_cart.add_product(product)
 
+
     def remove_from_cart(self, product):
         self.shopping_cart.remove_from_cart(product)
 
