@@ -41,7 +41,7 @@ class Customer:
     def __init__(self, name, email):
         self.name = name
         self.email = email
-        self.shopping_cart =ShoppingCart()
+        self.shopping_cart = ShoppingCart()
 
     def add_to_cart(self, product):
         self.shopping_cart.add_product(product)
