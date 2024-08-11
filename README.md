@@ -11,5 +11,3 @@
 -> Sample Body Data For Postman { "user_id": "user123", "product_id": 2 } <br>
 
 <br>
-
-Trial
